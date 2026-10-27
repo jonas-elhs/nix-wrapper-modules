@@ -120,6 +120,11 @@
     github = "aliaslion";
     githubId = 122117018;
   };
+  alexsutila = {
+    name = "alexsutila";
+    github = "AlexSutila";
+    githubId = 96510931;
+  };
   lodwkobku = {
     email = "lodwkobku+nixpkgs@gmail.com";
     github = "LodWKobku";
